@@ -336,3 +336,4 @@ class CloudCacheExceptions extends Exception
         return $this->getMessage();
     }
 }
+?>
